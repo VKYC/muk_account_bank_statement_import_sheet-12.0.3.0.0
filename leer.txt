@@ -1,0 +1,1 @@
+Modulo para ODOO Community Version C12, importación de extractos bancarios, en distintos formatos
